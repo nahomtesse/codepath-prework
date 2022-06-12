@@ -34,9 +34,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-I had no challenge doing this project.
 
 ## License
 
